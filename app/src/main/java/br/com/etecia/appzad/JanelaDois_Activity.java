@@ -14,7 +14,7 @@ public class JanelaDois_Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.janela_dois_layout);
 
         button = (Button) findViewById(R.id.btnVoltarJanela1);
 
